@@ -18,7 +18,6 @@ Aqui você encontrará informações sobre mim, minha formação, certificaçõe
 - **HTML5**
 - **CSS3**
 - **Responsividade com Media Queries**
-- **Boas práticas de semântica e acessibilidade**
 
 ---
 
